@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Prépublication : retirer ce blocage seulement après validation et publication.
