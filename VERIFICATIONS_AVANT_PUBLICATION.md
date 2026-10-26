@@ -20,3 +20,9 @@
 
 ## Important
 Le dépôt public permet de consulter le code. Cela ne signifie pas que GitHub Pages est activé. Aucune fusion vers main ni mise en ligne n'est autorisée à ce stade.
+
+## Choix du porteur de projet
+- [x] La marque Sélection Prestige sera exploitée par la micro-entreprise existante, et non par une nouvelle personne morale.
+- [ ] Vérifier et déclarer l'ajout d'activité d'affiliation, si nécessaire, via le guichet unique.
+- [ ] Compléter les coordonnées de l'entrepreneur et son SIREN/SIRET dans les mentions légales.
+- [ ] Vérifier les modalités fiscales et sociales des commissions selon la situation de l'entreprise.
